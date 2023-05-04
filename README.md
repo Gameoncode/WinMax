@@ -1,8 +1,7 @@
 <p align="center">
-![WinMax (1)](https://user-images.githubusercontent.com/103607251/236095296-4d5ff707-6dac-44d5-a2de-de669348d3cd.png)
-
-</p>
-# WinMax
+  <img src="https://user-images.githubusercontent.com/103607251/236095369-c6e5f270-0dce-4a20-a515-2d4518c89f5b.png">
+  </p>
+<h1>WinMax</h1>
 <h2>[1.0] - 18/04/2023</h2>
 
 
