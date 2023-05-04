@@ -1,3 +1,5 @@
+<p align="center">
+
 
 # WinMax
 <h2>[1.0] - 18/04/2023</h2>
@@ -18,3 +20,6 @@
 <li>Reduces startup time  </li>
 <li>Improves Wi-Fi Performance </li>
 
+
+  
+</p>
