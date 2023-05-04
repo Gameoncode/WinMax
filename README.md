@@ -1,6 +1,8 @@
 
 # WinMax
-<h2>[1.0] - 18/04/2023</h2
+<h2>[1.0] - 18/04/2023</h2>
+![WinMax (1)](https://user-images.githubusercontent.com/103607251/236094474-ef29e640-98bc-4b83-8fc5-1b0f7fd70b32.png)
+
 
 
 <p>"WinMax" is a folder optimization for Windows designed to improve your PC's performance by removing junk files, uninstalling unwanted programs and adjusting system settings.</p>
