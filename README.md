@@ -26,14 +26,11 @@
 copy the link and paste it in your browser, then press the download button at the top
 
 ### Windows:
-## Credits
-<p>
-  <pre>
 
-Optimizer by hellzerg on github: https://github.com/hellzerg/optimizer
-<p>
-Link: https://mega.nz/folder/wfFDHRIA#BLkDGXFr6v-f01fiy63npQ
-</p>
+  ```
+### Link: https://mega.nz/folder/wfFDHRIA#BLkDGXFr6v-f01fiy63npQ
+  ```
+
 
 ### Compatibility
 ```
