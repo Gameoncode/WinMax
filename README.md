@@ -25,11 +25,9 @@
 
 copy the link and paste it in your browser, then press the download button at the top
 
-### Windows:
+### Windows: Link: https://mega.nz/folder/wfFDHRIA#BLkDGXFr6v-f01fiy63npQ
 
-  ```
-### Link: https://mega.nz/folder/wfFDHRIA#BLkDGXFr6v-f01fiy63npQ
-  ```
+ 
 
 
 ### Compatibility
