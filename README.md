@@ -25,7 +25,7 @@
 
 copy the link and paste it in your browser, then press the download button at the top
 
-<h3> Windows: Link: https://mega.nz/folder/wfFDHRIA#BLkDGXFr6v-f01fiy63npQ </h3>
+<h3> Mega-Link: https://mega.nz/folder/wfFDHRIA#BLkDGXFr6v-f01fiy63npQ </h3>
 
  
 
