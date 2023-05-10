@@ -41,7 +41,7 @@ Windows 7
 ## Credits
 <p>
   <pre>
-  Credits
+
 Optimizer by hellzerg on github: https://github.com/hellzerg/optimizer
 HoneCtrl by auraside on github: https://github.com/auraside/HoneCtrl
 EchoX by UnLovedCookie on github:https://github.com/UnLovedCookie/EchoX
