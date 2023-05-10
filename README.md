@@ -40,6 +40,7 @@ Windows 7
 
 ## Credits
 <p>
+  <pre>
   Credits
 Optimizer by hellzerg on github: https://github.com/hellzerg/optimizer
 HoneCtrl by auraside on github: https://github.com/auraside/HoneCtrl
@@ -62,6 +63,7 @@ Windows 10 schneller machen: Die wichtigsten Tipps & Tricks by Windows Area on y
 优化Windows 10系统运行速度的十种方案！2021 | 零度解说 by 零度解说 on youtube: https://youtu.be/L4eG7utQ_YE
 You Should Do This IMMEDIATELY After Installing Windows 11 by NotroDan on youtube: https://youtu.be/DL8VaNTqbW0
 🔧 WINDOWS 10: COMO OPTIMIZAR AL MAXIMO PARA JUEGOS 🔥 | Acelerar PC de Bajos Recursos ✔️ by SouViictorinEnglish in youtube: https://youtu.be/2m91LB_ZTdM
+</pre>
 </p>
 
 
