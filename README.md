@@ -68,10 +68,9 @@ You Should Do This IMMEDIATELY After Installing Windows 11 by NotroDan on youtub
 
 ###
 <p>
-  <pre>
-  Doubts or bugs to ezequiel.rodriguezloera@gmail.com
+Doubts or bugs to ezequiel.rodriguezloera@gmail.com</p>
+<p>
   WinMax® - 2023
-  </pre>
   <p>
 
 
