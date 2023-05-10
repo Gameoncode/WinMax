@@ -30,5 +30,13 @@ Windows:
 https://mega.nz/folder/wfFDHRIA#BLkDGXFr6v-f01fiy63npQ
 ```
 
+### Compatibility
+```
+Windows 11
+Windows 10
+Windows 8
+Windows 7
+```
+
 
 
