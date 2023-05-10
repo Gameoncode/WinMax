@@ -7,7 +7,7 @@
 
 
 
-<p>"WinMax" is a folder optimization for Windows designed to improve your PC's performance by removing junk files, uninstalling unwanted programs and adjusting system settings.</p>
+<p>"WinMax" is a free best programs collection folder designed to improve Windows performance by removing junk files, uninstalling unwanted programs and adjusting system settings.</p>
 <h3>Here is a table that summarizes the main advantages of WinMax:</h3>
 <li>Cleans up junk files</li>
 <li>Uninstalls unwanted programs </li>
